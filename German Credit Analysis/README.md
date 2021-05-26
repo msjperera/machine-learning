@@ -1,10 +1,10 @@
 # Task
 ## Question 1
-### (1)
+### Part 1
 Fit a decision tree to the training data with an optimal tree size determined by 10-fold cross-validation. Create a plot of the pruned tree and interpret the results. If cross-validation does not lead to selection of a pruned tree, then create a pruned tree with five terminal nodes. Compute the test error rate of the pruned tree.
-### (2)
+### Part 2
 Fit a random forest to the training data with parameter tuned by 10-fold crossvalidation. Compute the test error rate and comment on the results. Create a plot showing variable importance for the model with the tuned parameter and comment on the plot.
-### (3)
+### Part 3
 Draw one plot with two ROC curves for the test predictions in (1) and (2). Comment on the plot.
 
 ## Question 2
